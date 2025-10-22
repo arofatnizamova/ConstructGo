@@ -140,6 +140,20 @@ body {
   color: #A6A6A6;
 }
 
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.modal-content {
+  border: none;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: 700px;
+  }
+}
+
 @media(max-width:990px) {
   .vh-lg-100 {
     height: 600px;
