@@ -103,12 +103,20 @@ body {
   font-size: clamp(1rem, 0.925rem + 0.375vw, 1.375rem);
 }
 
+.text-md {
+  font-size: clamp(1rem, 0.9rem + 0.5vw, 1.5rem);
+}
+
 .w-fit-content {
   width: fit-content;
 }
 
 .text-dirt {
   color: #444444;
+}
+
+.text-gold {
+  color: #C69F86;
 }
 
 .vh-lg-100 {
