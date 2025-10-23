@@ -148,6 +148,10 @@ body {
   border: none;
 }
 
+.bg-main {
+  background: #6E90A8;
+}
+
 @media (min-width: 576px) {
   .modal-dialog {
     max-width: 700px;
